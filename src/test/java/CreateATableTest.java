@@ -3,7 +3,6 @@ import Util.ConnectionUtil;
 import org.junit.After;
 import org.junit.Test;
 
-import javax.xml.transform.Result;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
